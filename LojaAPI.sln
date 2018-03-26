@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaAPI", "LojaAPI\LojaAPI.csproj", "{ABB721D3-6D18-4DBF-ADF8-BAE1D815E2FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaAPIClient", "..\LojaAPIClient\LojaAPIClient\LojaAPIClient.csproj", "{0787149F-FD3E-4ACE-9773-62EFC66D7D9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ABB721D3-6D18-4DBF-ADF8-BAE1D815E2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABB721D3-6D18-4DBF-ADF8-BAE1D815E2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABB721D3-6D18-4DBF-ADF8-BAE1D815E2FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0787149F-FD3E-4ACE-9773-62EFC66D7D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0787149F-FD3E-4ACE-9773-62EFC66D7D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0787149F-FD3E-4ACE-9773-62EFC66D7D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0787149F-FD3E-4ACE-9773-62EFC66D7D9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
